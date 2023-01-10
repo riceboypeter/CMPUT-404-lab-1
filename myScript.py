@@ -12,3 +12,4 @@ f.close()
 
 f = open(filename, 'r')
 print(f.read())
+f.close()
